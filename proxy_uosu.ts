@@ -1,0 +1,1 @@
+const service_uosu = <T>(args: T): T => { return args; };
